@@ -8,8 +8,7 @@ header {
   text-align: center;
 }
 
-header > a {
-
+header > nav {
   padding: 10px;
   background-color: blue;
 }
