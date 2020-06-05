@@ -15,8 +15,7 @@ header {
 
 #featured-property > p {
   width: 800px;
-  align-self: center;
-}
+align-items: center;}
 
 #details > div {
   background-color: red;
