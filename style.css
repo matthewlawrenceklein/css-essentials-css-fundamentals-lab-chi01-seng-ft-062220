@@ -21,6 +21,7 @@ header > nav {
 #featured-property > p {
   width: 800px;
   text-align: center;
+  margin: auto;
 }
 
 #details > div {
