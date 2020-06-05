@@ -8,6 +8,12 @@ header {
   text-align: center;
 }
 
+header > a {
+
+  padding: 10px;
+  background-color: blue;
+}
+
 #featured-property > figure {
   font-size: 16px;
   text-align: center;
@@ -16,7 +22,7 @@ header {
 #featured-property > p {
   width: 800px;
   text-align: center;
-align-content: center;}
+}
 
 #details > div {
   background-color: red;
