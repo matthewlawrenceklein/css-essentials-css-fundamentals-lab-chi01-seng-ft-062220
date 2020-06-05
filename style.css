@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-header > nav {
+header > pink {
   padding: 10px;
   background-color: blue;
 }
