@@ -13,6 +13,10 @@ header {
   font-size: 16px
 }
 
+#featured-property > p {
+  width: 800px
+}
+
 #details > div {
   background-color: red;
   display: block;
