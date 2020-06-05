@@ -9,12 +9,12 @@ header {
 }
 
 #featured-property {
-  font-size: 16px
+  font-size: 16px;
+  align-items: center; 
 }
 
 #featured-property > p {
   width: 800px;
-  text-align: center;
 }
 
 #details > div {
