@@ -15,7 +15,7 @@ header {
 
 #featured-property > p {
   width: 800px;
-  align-content: center;
+  align-self: center;
 }
 
 #details > div {
