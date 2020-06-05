@@ -17,4 +17,5 @@ header {
   background-color: red;
   display: block;
   float: left;
+  width: 25%;
 }
